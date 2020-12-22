@@ -24,7 +24,7 @@
 
 This app is made through a series of instructional videos made by [Rahul Pandey](https://www.youtube.com/user/rpandey1234). Here is the original code's [Github](https://github.com/rpandey1234/MyMemory).
 
-Uses Firebase for cloud storage. 
+This was my first time making an Android app in Kotlin, as well as using Firebase for cloud storage. Building this app was really enjoyable! 
 
 ### Attributions 
 
